@@ -22,7 +22,7 @@ public class Main {
         System.out.println("cylinder.volume= " + cylinder.getVolume());*/
 
 
-        Rectangle rectangle = new Rectangle(5, 10);
+        /*Rectangle rectangle = new Rectangle(5, 10);
 
         System.out.println("rectangle.width= " + rectangle.getWidth());
 
@@ -40,7 +40,7 @@ public class Main {
 
         System.out.println("cuboid.height= " + cuboid.getHeight());
 
-        System.out.println("cuboid.volume= " + cuboid.getVolume());
+        System.out.println("cuboid.volume= " + cuboid.getVolume());*/
 
     }
 }
